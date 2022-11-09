@@ -1,0 +1,35 @@
+{
+	"name": "tagged-fs-gui",
+	"version": "0.0.0",
+	"description": "",
+	"scripts": {
+		"start": "vite",
+		"dev": "vite",
+		"build": "vite build",
+		"serve": "vite preview"
+	},
+	"license": "MIT",
+	"private": true,
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "^5.41.0",
+		"@typescript-eslint/parser": "^5.41.0",
+		"autoprefixer": "^10.4.12",
+		"eslint": "^8.26.0",
+		"eslint-plugin-solid": "^0.7.4",
+		"postcss": "^8.4.18",
+		"prettier": "^2.7.1",
+		"tailwindcss": "^3.2.1",
+		"typescript": "^4.8.4",
+		"vite": "^3.0.9",
+		"vite-plugin-eslint": "^1.8.1",
+		"vite-plugin-singlefile": "^0.12.3",
+		"vite-plugin-solid": "^2.3.0"
+	},
+	"dependencies": {
+		"@thisbeyond/solid-dnd": "^0.7.3",
+		"axios": "^1.1.3",
+		"solid-devtools": "^0.20.1",
+		"solid-icons": "^1.0.2",
+		"solid-js": "1.5.9"
+	}
+}
